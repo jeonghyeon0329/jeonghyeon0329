@@ -2,7 +2,7 @@
 🎓 **M.S. in Computer Science, Yonsei University** (Mar 2021 – Feb 2023)  
 &nbsp;&nbsp;• Database Laboratory — Research on large-scale data processing and parallel queue scheduling systems  
 
-🎓 **B.A. in Computer Science & Accounting (Double Major), The Catholic University of Korea** (Mar 2014 – Aug 2020)
+🎓 **B.A. in Computer Science & Accounting (Double Major), Catholic University** (Mar 2014 – Aug 2020)
 
 ---
 
@@ -13,19 +13,33 @@
 ---
 
 ## 💻 Tech Stack
-**Core Programing**<br>
-<img src="./core_programing_skill.png" alt="Core Programing" width="400"><br><br>
+  <div align="center">
 
-**Application Frameworks**<br>
-<img src="./application_frameworks.png" alt="Application Frameworks" width="400"><br><br>
+  <table>
+    <tr>
+      <td align="center">
+        <b>Core Programming</b><br>
+        <img src="./core_programing_skill.png" alt="Core Programming" width="350">
+      </td>
+      <td align="center">
+        <b>Application Frameworks</b><br>
+        <img src="./application_frameworks.png" alt="Application Frameworks" width="350">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Databases</b><br>
+        <img src="./database.png" alt="Databases" width="350">
+      </td>
+      <td align="center">
+        <b>Infra Tools</b><br>
+        <img src="./infra_tool.png" alt="Infra Tools" width="350">
+      </td>
+    </tr>
+  </table>
 
-**Databases**<br>
-<img src="./database.png" alt="Databases" width="400"><br><br>
-
-**infra_tool**<br>
-<img src="./infra_tool.png" alt="Infra Tool" width="400"><br>
+  </div>
 ---
 
-## 📫 Content
+## 📫 Studying
 🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85)<br>
-📧 **sptlsrja@gmail.com**
