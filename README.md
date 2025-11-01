@@ -4,14 +4,10 @@
 
 🎓 **B.A. in Computer Science & Accounting (Double Major), Catholic University** (Mar 2014 – Aug 2020)
 
----
-
 ## 💼 Experience
 - **Cogcom Co., Ltd.** — *Backend / DBA Engineer* (Mar 2025 – Sep 2025)  
 
 - **Boara Co., Ltd.** — *Backend / DBA Engineer* (Jan 2023 – Jan 2025)  
-
----
 
 ## 💻 Tech Stack
   <div align="center">
@@ -19,21 +15,21 @@
     <tr>
       <td align="center">
         <b>Core Programming</b><br>
-        <img src="./core_programing_skill.png" alt="Core Programming" width="350">
+        <img src="./core_programing_skill.png" alt="Core Programming" width="400">
       </td>
       <td align="center">
         <b>Application Frameworks</b><br>
-        <img src="./application_frameworks.png" alt="Application Frameworks" width="350">
+        <img src="./application_frameworks.png" alt="Application Frameworks" width="400">
       </td>
     </tr>
     <tr>
       <td align="center">
         <b>Databases</b><br>
-        <img src="./database.png" alt="Databases" width="350">
+        <img src="./database.png" alt="Databases" width="400">
       </td>
       <td align="center">
         <b>Infra Tools</b><br>
-        <img src="./infra_tool.png" alt="Infra Tools" width="350">
+        <img src="./infra_tool.png" alt="Infra Tools" width="400">
       </td>
     </tr>
   </table>
