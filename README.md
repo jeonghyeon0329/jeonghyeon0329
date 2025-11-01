@@ -31,11 +31,11 @@
   </div>
 
 ## 🎓 Education
-🎓 **M.S. in Computer Science, Yonsei University** (Mar 2021 – Feb 2023)  
-• Database Laboratory
+🎓 **M.S. in Computer Science, Yonsei University** (Mar 2021 – Feb 2023) <br>
+• Database Laboratory <br>
 • Large Data Micro-aggregation Based on Data Attribute Density Alignment
 
-🎓 **B.A. in Computer Engineer, Catholic University** (Mar 2014 – Aug 2020)
+🎓 **B.A. in Computer Engineer, Catholic University** (Mar 2014 – Aug 2020) <br>
 • Accounting (Double Major)
 
 ## 💼 Experience
