@@ -14,15 +14,18 @@
 
 ## 💻 Tech Stack
 **Core Programing**<br>
-<img src="./core_programing_skill.png" alt="Core Programing" width="400"><br>
+<img src="./core_programing_skill.png" alt="Core Programing" width="400"><br><br>
+
 **Application Frameworks**<br>
-<img src="./application_frameworks.png" alt="Application Frameworks" width="400"><br>
+<img src="./application_frameworks.png" alt="Application Frameworks" width="400"><br><br>
+
 **Databases**<br>
-<img src="./database.png" alt="Databases" width="400"><br>
+<img src="./database.png" alt="Databases" width="400"><br><br>
+
 **infra_tool**<br>
 <img src="./infra_tool.png" alt="Infra Tool" width="400"><br>
 ---
 
 ## 📫 Content
-🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85)
+🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85)<br>
 📧 **sptlsrja@gmail.com**
