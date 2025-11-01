@@ -13,7 +13,7 @@
         <img src="./core_programing_skill.png" alt="Core Programming" width="400">
       </td>
       <td align="center">
-        <b>Application Frameworks</b><br>
+        <b>Application</b><br>
         <img src="./application_frameworks.png" alt="Application Frameworks" width="400">
       </td>
     </tr>
