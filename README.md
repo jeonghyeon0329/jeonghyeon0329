@@ -26,14 +26,14 @@
 
 ## 🎓 Education
 🎓 **M.S. in Computer Science, Yonsei University** (Mar 2021 – Feb 2023)  
-&nbsp;&nbsp;• Database Laboratory — Research on large-scale data processing and parallel queue scheduling systems  
+• Database Laboratory —  Large Data Micro-aggregation Based on Data Attribute Density Alignment
 
 🎓 **B.A. in Computer Science & Accounting (Double Major), Catholic University** (Mar 2014 – Aug 2020)
 
 ## 💼 Experience
-- **Cogcom Co., Ltd.** — *Backend / DBA Engineer* (Mar 2025 – Sep 2025)  
+🏢 **Cogcom Co., Ltd.** — *Backend / DBA Engineer* (Mar 2025 – Sep 2025)  
 
-- **Boara Co., Ltd.** — *Backend / DBA Engineer* (Jan 2023 – Jan 2025)  
+🏢 **Boara Co., Ltd.** — *Backend / DBA Engineer* (Jan 2023 – Jan 2025)  
 
 
 
