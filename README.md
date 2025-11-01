@@ -8,11 +8,12 @@ Docker, Django, PostgreSQL, React를 기반으로 한 프로젝트를 진행하�
 ## 🧑‍💻 Tech Stack
 **Core Programing**<br>
 <img src="./core_programing_skill.png" alt="Core Programing" width="400"><br>
-**Backend:** Django, DRF, Python  
-**Database:** PostgreSQL, MySQL  
-**Frontend:** React, JavaScript  
-**DevOps:** Docker, Nginx  
-
+**Application Frameworks**<br>
+<img src="./application_frameworks.png" alt="Application Frameworks" width="400"><br>
+**Databases**<br>
+<img src="./Databases.png" alt="Databases" width="400"><br>
+**infra_tool**<br>
+<img src="./infra_tool.png" alt="Infra Tool" width="400"><br>
 ---
 
 ## 🏗️ Projects
