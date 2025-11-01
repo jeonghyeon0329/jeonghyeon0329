@@ -10,11 +10,11 @@
 - **Cogcom Co., Ltd.** — *Backend / DBA Engineer* (Mar 2025 – Sep 2025)  
 
 - **Boara Co., Ltd.** — *Backend / DBA Engineer* (Jan 2023 – Jan 2025)  
+
 ---
 
 ## 💻 Tech Stack
   <div align="center">
-
   <table>
     <tr>
       <td align="center">
@@ -37,8 +37,8 @@
       </td>
     </tr>
   </table>
-
   </div>
+
 ---
 
 ## 📫 Studying
