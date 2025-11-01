@@ -1,3 +1,9 @@
+<h3 align="center"><b>연구 경험과 서비스를 연결해 실질적 가치를 만드는 엔지니어</b></h3>
+
+<p align="center">
+  <i>Connecting research experience with real-world service value.</i>
+</p>
+
 ## 💻 Tech Stack
   <div align="center">
   <table>
@@ -36,7 +42,5 @@
 🏢 **Boara Co., Ltd.** — *Backend / DBA Engineer* (Jan 2023 – Jan 2025)  
 
 
-
-
-## 📫 Studying
-🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85)<br>
+## 📫 Blog
+🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153?v=27c6821db72a8055a4d3000cc56eed85)<br>
