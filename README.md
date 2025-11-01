@@ -17,18 +17,12 @@ Docker, Django, PostgreSQL, React를 기반으로 한 프로젝트를 진행하�
 ---
 
 ## 🏗️ Projects
-- [Scheduling System (Core/HR)](https://github.com/jeonghyeon0329/scheduling_backend)  
-  → Django 기반 멱등 회원가입 API / HR 연동 시스템  
-- [Frontend Scheduler](https://github.com/jeonghyeon0329/scheduling_frontend)  
-  → React 기반 시각화 및 세션 관리 UI
-
+- Scheduling System
+  -> 자신의 스케줄을 계획하고 공유 플랫폼
+  [Frontend Scheduler](https://github.com/jeonghyeon0329/scheduling_frontend)  
+  [Backend Scheduler](https://github.com/jeonghyeon0329/scheduling_backend)  
 ---
 
-## 🏆 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyeon0329&layout=compact&theme=tokyonight)
 
----
-
-## 📫 Contact
-📧 Email: jeonghyeon0329@gmail.com  
-🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85&source=copy_link)
+## 📫 Content
+🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85)
