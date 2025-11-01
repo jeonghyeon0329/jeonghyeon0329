@@ -32,9 +32,11 @@
 
 ## 🎓 Education
 🎓 **M.S. in Computer Science, Yonsei University** (Mar 2021 – Feb 2023)  
-• Database Laboratory —  Large Data Micro-aggregation Based on Data Attribute Density Alignment
+• Database Laboratory
+• Large Data Micro-aggregation Based on Data Attribute Density Alignment
 
-🎓 **B.A. in Computer Science & Accounting (Double Major), Catholic University** (Mar 2014 – Aug 2020)
+🎓 **B.A. in Computer Engineer, Catholic University** (Mar 2014 – Aug 2020)
+• Accounting (Double Major)
 
 ## 💼 Experience
 🏢 **Cogcom Co., Ltd.** — *Backend / DBA Engineer* (Mar 2025 – Sep 2025)  
