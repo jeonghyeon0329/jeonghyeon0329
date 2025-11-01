@@ -11,7 +11,7 @@ Docker, Django, PostgreSQL, React를 기반으로 한 프로젝트를 진행하�
 **Application Frameworks**<br>
 <img src="./application_frameworks.png" alt="Application Frameworks" width="400"><br>
 **Databases**<br>
-<img src="./Databases.png" alt="Databases" width="400"><br>
+<img src="./database.png" alt="Databases" width="400"><br>
 **infra_tool**<br>
 <img src="./infra_tool.png" alt="Infra Tool" width="400"><br>
 ---
@@ -25,12 +25,10 @@ Docker, Django, PostgreSQL, React를 기반으로 한 프로젝트를 진행하�
 ---
 
 ## 🏆 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeonghyeon0329&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyeon0329&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 📧 Email: jeonghyeon0329@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/jeonghyeon0329)  
-🌐 [Portfolio](https://notion.jeonghyeon.dev)
+🌐 [Notion](https://www.notion.so/27c6821db72a8039aa1cf28c7a32c153v=27c6821db72a8055a4d3000cc56eed85&source=copy_link)
