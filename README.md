@@ -39,6 +39,8 @@
 • Accounting (Double Major)
 
 ## 💼 Experience
+🏢 **Ground One Co., Ltd.** — *Backend / DBA Engineer* (Nov 2025 – )  
+
 🏢 **Cogcom Co., Ltd.** — *Backend / DBA Engineer* (Mar 2025 – Sep 2025)  
 
 🏢 **Boara Co., Ltd.** — *Backend / DBA Engineer* (Jan 2023 – Jan 2025)  
